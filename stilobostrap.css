@@ -1,0 +1,170 @@
+/** pricing.css */
+@import url("https://fonts.googleapis.com/css?family=Alegreya:900|Open+Sans|Slabo+27px&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+ 
+ 
+
+.navbar {
+	list-style:none;
+	padding:0;
+	/* background:#E17825; */
+  background:black;
+	width:100%;
+	max-width: 3000px;
+margin:auto;
+}
+
+.navbar-light .nav-item .nav-link {
+  text-decoration: blink;
+	color: white;
+	padding: 10px;
+	display:block;
+	
+
+}
+
+.navbar-light .navbar-toggler {
+   color: blue;
+		text-align:center;
+}
+
+
+.navbar li a:hover{
+		background:#FE2E2E;
+		}
+    p1{
+      color: white;
+      font-size:10px;
+    }
+    p2{
+      color: white;
+      font-size:10px;
+      text-align: center;
+    }
+    
+     
+  .icono-phone{
+color:#dadada;
+margin: right 15px;
+padding: 2px;
+  }
+  .icono-phone i{
+    font-size: 2em;
+     text-align: left;
+  }
+  p4{
+    color: white;
+    font-size:12px;
+  }
+  p5{
+    color: white;
+    font-size:10px;
+    text-align: center;
+  }
+   
+             
+                      
+           
+          .body1{
+            background-color: rgb(207, 207, 37);
+            height:250px;
+            padding: 60px;
+            max-width: 3000px;
+            width:100%;
+          }
+          marquee{
+              background-color:aqua;
+          }
+          p6{
+            font-size: 14px;
+       
+            color: black;
+            justify-content: left;
+          
+            max-width: 3000px;
+            width:100%;
+           
+            justify-content: center;
+            align-items: center;
+          }
+          .body-img{
+          background-image: url(https://image.freepik.com/vector-gratis/fondo-garabatos-panaderia_125540-632.jpg);
+          height:500px;
+          max-width: 3000px;
+          width:100%;
+          background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+          } 
+           
+          .titulo{
+            /* color: black;/* color de h1  
+                /* text-decoration: underline; */ /* linea abajo  */
+                /* text-decoration:  overline;  linea arriba   */ 
+                       text-decoration-color: #00ff00;   
+                       font-family: 'Roboto', sans-serif;
+                       font-family: 'Roboto Slab', serif;
+                       font-size: 4px;
+        }
+        .titulo:first-letter{  
+            font-size: 50px;
+        color:rgb(136, 136, 226);
+         
+        }
+        h2{
+          font-size: 1em;
+          text-align: left;
+          color: black;
+          
+        }
+         
+
+ 
+	 
+	 
+
+		   
+                          
+                          
+                     
+                 
+              
+                          .features-section {
+                            height:300x;
+                            background-image: url("pie.jpg");
+                            background-color: #cea135;
+                            max-width: 3000px;
+                            width:100%;
+    color: #11122b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+                        }
+                        .features-section > .columns-wrapper {
+                          max-width: 3000px;
+                          width:100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.column {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+iframe{
+  max-width: 3000px;
+  width:100%;
+  height: 450px;
+  
+}
+ 
